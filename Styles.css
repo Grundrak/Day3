@@ -1,0 +1,39 @@
+#Title {
+    font-size: 5em;
+    margin: 10px;   
+    color: rgba(222, 77, 10, 0.841);
+  
+  }
+
+div {
+  
+  background-image: url(Ha.png);
+
+
+  border: 5px solid rgb(5, 4, 3);
+  text-align: center;
+  margin-right: 8em;
+  margin-left: 8em;
+  margin-top: 5em;
+
+
+}
+legend{
+  font-size: 2em;
+  color: rgb(20, 82, 157) ;
+}
+label
+{ 
+
+   font-size:  2em; 
+  color: rgb(204, 20, 20);
+
+}
+input,select
+{ 
+  display: inline-flex ;
+   text-align: center;
+   font-size:  2em; 
+   color: 35373b;
+
+}
